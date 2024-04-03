@@ -1,90 +1,168 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Progate</title>
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+<style type="text/css">
+.important{
+	color: #DD2222;
+}
+a img:hover {
+   opacity: 0.5;
+}
+</style>
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-type" charset="utf-8">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="keywords" content="吉元,俊輔,吉元俊輔">
+
+<title>Shunsuke Yoshimoto | AML, The University of Tokyo</title>
+
+<link rel="shortcut icon" href="icon.png">
+
+<!--CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+<!--JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>        
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- FontAwsome CSS -->
+<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="css/scrolling-nav.css" rel="stylesheet">
 </head>
-<body>
-  <header>
-    <div class="container">
-      <div class="header-left">
-        <img class="logo" src="https://prog-8.com/images/html/advanced/main_logo.png">
-      </div>
-      <span class="fa fa-bars menu-icon"></span>
-      <div class="header-right">
-        <a href="#">レッスン</a>
-        <a href="#">新規登録</a>
-        <a href="#" class="login">ログイン</a>
-      </div>
-    </div>
-  </header>
-  <div class="top-wrapper">
-    <div class="container">
-      <h1>LEARN TO CODE.<br>LEARN TO BE CREATIVE.</h1>
-      <p>Progateはオンラインプログラミング学習サービスです。<br>初心者にもやさしいスライドとレッスンで、ウェブサービスを作りながらプログラミングを学んでいきましょう。</p>
-      <div class="btn-wrapper">
-        <a href="#" class="btn signup">新規登録はこちら</a>
-        <p>or</p>
-        <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebookで登録</a>
-        <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Twitterで登録</a>
-      </div>
-    </div>
-  </div>
-  <div class="lesson-wrapper">
-    <div class="container">
-      <div class="heading">
-        <h2>Learn Where to Get Started!</h2>
-      </div>
-      <div class="lessons">
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/html.png">
-            <p>HTML & CSS</p>
-          </div>
-          <p class="text-contents">ウェブページの作成に使用される言語です。HTMLとCSSを組み合わせることで、静的なページを作り上げることができます。</p>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.php">吉元 俊輔</a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                <li>
+                <a class="page-scroll" href="projects.php">研究内容</a>
+                </li>
+                <li>
+                <a class="page-scroll" href="#Carrier">略歴</a>
+                </li>
+                <li>
+                <a class="page-scroll" href="#Teaching">教育</a>
+                </li>
+                <li>
+                <a class="page-scroll" href="#Publications">研究業績一覧</a>
+                </li>
+                <li>
+                <a class="page-scroll" href="./study.html">配属・連携</a>
+                </li>
+                <li>
+                <a class="page-scroll" href="#Society">学会活動</a>
+                </li>
+                <li>
+                <a class="page-scroll" href="#Links">リンク</a>
+                </li>          
+                <li>
+                <a class="page-scroll" href="index_en.php">English</a>
+                </li>          
+                </ul>
+            </div>
         </div>
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/jQuery.png">
-            <p>jQuery</p>
-          </div>
-          <p class="text-contents">素敵な動きを手軽に実装できるJavaScriptライブラリです。 アニメーション効果をつけたり、Ajax（エイジャックス）を使って外部ファイルを読み込んだりと色々なことができます。</p>
+    </nav>
+ 
+    <section id="intro" class="intro-section">
+        <div class="container">
+            <!-- row:About -->
+            <div class="row">
+                <div class="col-sm-4" style="text-align: center;">
+           		<img class="img-circle" src="syoshimoto.png" width="180" height="180" />
+		<br />
+		<br />
+		<br />
+                </div>
+                <div class="col-sm-8" style="text-align: left; float: right;">
+                    <span class="p-name"><a name="contact"></a>
+                    <strong>
+                    吉元俊輔 (Shunsuke Yoshimoto)
+                    </strong>
+                    </span>
+                    <br />
+                    <span class="p">
+                    講師／東京大学卓越研究員<br/>
+	        博士（工学）
+                    </span>
+                    <br />
+                    <br />
+                    <span class="p">
+                    Email: yoshimoto [ａｔ] k.u-tokyo.ac.jp<br/>
+                    </span>
+                    <br />
+                    <br />
+                    <span class="p-bold">
+                    <strong>
+                    研究分野
+                    </strong> 
+                    <br />
+                    </span>
+                    <span class="p">
+                    生体工学・メカトロニクス・電磁界計測・ハプティクス
+                    </span>
+                    <br />
+                    <br />
+                    <span class="p-bold">
+                    <strong>
+                    キーワード
+                    </strong> 
+                    <br />
+                    </span>
+                    <span class="p">
+                    生体計測・生体モデリング・電磁界トモグラフィ・触覚センシング・力触覚ディスプレイ・医療応用
+                    </span>
+                    <br />
+                    <br />
+
+                    <strong class="p-bold">
+                   所属
+                    </strong>
+                    <br />
+                    <span class="p">
+                    東京大学 大学院新領域創成科学研究科 <a href="https://www.h.k.u-tokyo.ac.jp/" target="_blank" class="textlink-black">人間環境学専攻</a><br/>
+                    東京大学 <a href="http://www.pe.t.u-tokyo.ac.jp/" target="_blank" class="textlink-black">工学部精密工学科</a>（兼任）<br/>
+                    <a href="https://www.aml.t.u-tokyo.ac.jp/" target="_blank" class="textlink-black">アンビエント・メカトロニクス分野（山本・吉元研究室）</a><br/>
+                    </span>                
+                </div>                              
+            </div><br /><br /><br />
+            <div class="row">
+		<iframe src="new.html" frameborder="0" height="20%" width = "90%"></iframe>
+            </div>
         </div>
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/ruby.png">
-            <p>Ruby</p>
-          </div>
-          <p class="text-contents">オープンソースの動的なプログラミング言語で、 シンプルさと高い生産性を備えています。大きなWebアプリケーションから小さな日用ツールまで、さまざまなソフトウェアを作ることができます。</p>
-        </div>
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/php.png">
-            <p>PHP</p>
-          </div>
-          <p class="text-contents">HTMLだけではページの内容を変えることはできません。PHPはHTMLにプログラムを埋め込み、それを可能にします。</p>
-        </div>
-      </div>
-      <div class="clear"></div>
-    </div>
-  </div>
-  <div class="message-wrapper">
-    <div class="container">
-      <div class="heading">
-        <h2>さぁ、あなたもProgateでプログラミングを学んでみませんか?</h2>
-        <h3>Let's learn to code, learn to be creative!</h3>
-      </div>
-      <span class="btn message">さっそく開発する</span>
-    </div>
-  </div>
-  <footer>
-    <div class="container">
-      <img src="https://prog-8.com/images/html/advanced/footer_logo.png">
-      <p>Learn to Code, Learn to be Creative.</p>
-    </div>
-  </footer>
+    </section>
+	<div class="row" style="border-top-style: solid; border-top-width: 1px; text-align: center">
+	(c) 2015-2021 Shunsuke Yoshimoto 
+            </div>                
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Scrolling Nav JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/scrolling-nav.js"></script>
+
+
 </body>
+
 </html>
