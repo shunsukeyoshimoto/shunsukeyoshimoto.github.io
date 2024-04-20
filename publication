@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+<style type="text/css">
+.important{
+	color: #DD2222;
+}
+a img:hover {
+   opacity: 0.5;
+}
+</style>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-type" charset="utf-8">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="keywords" content="吉元,俊輔,吉元俊輔">
+
+<title>Shunsuke Yoshimoto | Osaka University</title>
+
+<link rel="shortcut icon" href="./icon.png">
+<!--CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+<!--JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>        
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!-- FontAwsome CSS -->
+<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+<!-- Custom CSS -->
+<link href="./scrolling-nav.css" rel="stylesheet">
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="container">
+	<div class="navbar-header page-scroll">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand page-scroll" href="./index.html">吉元 俊輔</a>
+	</div>
+	<div class="collapse navbar-collapse navbar-ex1-collapse">
+		<ul class="nav navbar-nav">
+		<li><a class="page-scroll" href="./index.html">研究内容</a></li>
+		<li><a class="page-scroll" href="./index.html">略歴</a></li>
+		<li><a class="page-scroll" href="./index.html">教育</a></li>
+		<li><a class="page-scroll" href="./index.html">研究業績一覧</a></li>
+		<li><a class="page-scroll" href="./index.html">配属・連携</a></li>
+		<li><a class="page-scroll" href="./index.html">学会活動</a></li>
+		<li><a class="page-scroll" href="./index.html">リンク</a></li>          
+		<li><a class="page-scroll" href="./index.html">English</a></li>          
+		</ul>
+	</div>
+</div>
+</nav>
+<section id="intro" class="intro-section">
+<div class="container">
+<div class="row">
+<div class="col-sm-12" style="border-bottom-style: solid; border-bottom-width: 1px; text-align: left;">
+<h3> 研究業績一覧 </h3>
+</div>
+<div class="col-sm-12"solid; border-bottom-width: 1px; text-align: left;">
+<h4><strong> 学術論文（査読付） </strong></h4>
+</div></div>
+
+<ol class="ol">
+<div class="row">
+<div class= "col-sm-11" style="text-align: justify;"><li>
+C. Kamiya, Y. Iwatani, S. Yoshimoto, H. Taniguchi, Y. Kitabatake, K. Kagitani-Shimono, Inter-hemispheric somatosensory coherence and parental stress in hypersensitivity at 8 months old: An electroencephalography study. Clinical Neurophysiology, vol.xx, no.xx, pp.xx-xx, 2024(accepted).
+</li></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+A. Okuno, S. Yoshimoto, A. Yamamoto, Interactive driving of electrostatic film actuator by proximity motion of human body. ROBOMECH Journal, vol.11, no.7, pp.1-14, 2024.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1186/s40648-024-00275-1" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, K. Sakamoto, R. Takeda, A. Yamamoto, Design of a High-Performance Tomographic Tactile Sensor by Manipulating the Detector Conductivity. IEEE Transactions on Industrial Electronics, vol.xx, no.xx, pp.xx-xx, 2024(accepted).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TIE.2024.3384613" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Hayashi, S. Yoshimoto, A. Yamamoto, Noncontact 2-D Temperature Imaging of Metallic Foils Using Electromagnetic Tomography. IEEE Sensors Journal, vol.23, no.16, pp.17942-17950, 2023.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/JSEN.2023.3292926" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+A. Kojima, S. Yoshimoto, A. Yamamoto, Optimization of Electrode Positions for Equalizing Local Spatial Performance of a Tomographic Tactile Sensor. Frontiers in Robotics and AI, section Smart Sensor Networks and Autonomy, vol.10, no.1157911, pp.1-9, 2023.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.3389/frobt.2023.1157911" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+M. Kojima, S. Yoshimoto, A. Yamamoto , Slider Sheet Detection in Charge-Induction Electrostatic Film Actuators. Sensors, vol.23, no.3, pp.1529:1-21, 2023.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.3390/s23031529" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+J. Xu, S. Yoshimoto, N. Ienaga, Y. Kuroda, Intensity-Adjustable Non-contact Cold Sensation Presentation Based on the Vortex Effect. IEEE Transactions on Haptics, vol.15, no.3, pp.592-602, 2022.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TOH.2022.3187759" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+T. Chada, S. Yoshimoto, A. Yamamoto, Spatio-temporal measurement of one-dimensional surface potential distributions using a surface voltmeter and a slit plate. Measurement Science and Technology, vol.33, no.9, pp.095115:1-12, 2022.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1088/1361-6501/ac79a3" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+M. Osada, F. Carneiro, G. Zhang, S. Yoshimoto, A. Yamamoto, Effect of insulating liquid viscosity on output force of a synchronous electrostatic motor. International Journal of Mechanical Sciences, vol.220, no.15, pp.107149:1-12, 2022.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1016/j.ijmecsci.2022.107149" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+A. Okuno, S. Yoshimoto, A. Yamamoto, Thermally-Driven Vehicle Using Bimetal Rings. Journal of Robotics and Mechatronics, vol.34, no.1, pp.131-139, 2022.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.20965/jrm.2022.p0131" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, Y. Toyoda, A. Yamamoto, Influence of Electrode Positions on Performance of Hand Motion Capture using EIT. IEEE Transactions on Medical Robotics and Bionics, vol.4, no.1, pp.285-288, 2022.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TMRB.2021.3125321" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+田中駿一, 鍵山善之, 中村倫大, 上木耕一郎, 諸井明徳, 黒田嘉宏, 伊藤安海, 野田善之, 吉元俊輔, 大城理, ハプティックデバイスを用いた歯科口腔外科下顎枝矢状分割術ドリル用手術トレーニングシミュレータにおける操作支援開発. 日本機械学会論文集, vol.87, no.904, pp.21-00219: 1-13, 2021.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1299/transjsme.21-00219" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+F. Carneiro, G. Zhang, M. Osada, S. Yoshimoto, A. Yamamoto, An Extended Model for Ripple Analysis of 2-4 Phase Resonant Electrostatic Induction Motors. Actuators, vol.10, no.11, pp.291:1-20, 2021.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.3390/act10110291" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, A. Yamamoto, Pressure Stimulus to the Palm Substitutes and Augments Force Sensation. IEEE Transactions on Haptics, vol.14, no.4, pp.930-935, 2021.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TOH.2021.3087230" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+H. Sakaniwa, R. Tajiri, M. Takano, M. Miyaki, Y. Uwa, S. Yoshimoto, A. Yamamoto, Improved tilt feeling during remote control of construction machine by tactile sensation. Journal of Advanced Computational Intelligence and Intelligent Informatics, vol.25, no.3, pp.365-374, 2021.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.20965/jaciii.2021.p0365" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+R. Uchikawa, H. Ishizuka, S. Ikeda, S. Yoshimoto, Y. Kuroda, O. Oshiro, Interactive Control of Fire Color Physicochemical Combustion. IEEJ Transactions on Electronics, Information and Systems, vol.9, no.1, pp.20-32, 2021.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://www.iieej.org/journal/trans-on-ievc-vol-9-no-1/" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+Z. Li, S. Yoshimoto, A. Yamamoto, Tomographic Proximity Imaging Using Conductive Sheet for Object Tracking. Sensors, vol.21, no.8, pp.2736:1-16, 2021.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.3390/s21082736" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+D. Hagimori, N. Isoyama, S. Yoshimoto, N. Sakata, K. Kiyokawa, Tendon Vibration Changes Perceived Joint Angle Independent of Voluntary Body Motion Direction in Virtual Environments. Advanced Robotics, vol.35, no.5, pp.281-294 , 2021.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1080/01691864.2020.1852959" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, N. Ikemoto, H. Ishizuka, S. Ikeda, Y. Kuroda, O. Oshiro, Efficient and Robust Detection of Local Impedance Changes using Selected Electrical Excitation Conditions. IEEE Access, vol.8, no.nan, pp.205778-205787, 2020.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/ACCESS.2020.3037167" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, Y. Kuroda, O. Oshiro, Tomographic Approach for Universal Tactile Imaging with Electromechanically Coupled Conductors. IEEE Transactions on Industrial Electronics, vol.67, no.1, pp.627-636, 2020.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TIE.2018.2879296" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 青山一真, 梶本裕之, 西川敦, 人体通電の影響と安全基準. 生体医工学, vol.58, no.4・5, pp.147-159, 2020(<span class="important">Invited</span>).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.11239/jsmbe.58.147" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+池本尚生, 吉元俊輔, 石塚裕己, 池田聖, 黒田嘉宏, 大城 理, 電位の空間走査による筋断裂検知手法の提案. 生体医工学, vol.57, no.6, pp.215-223, 2019.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.11239/jsmbe.57.215" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+T. Kitajima, E. Murakami, S. Yoshimoto, Y. Kuroda, O. Oshiro, Privacy-aware human-detection and tracking system using biological signals. IEICE Transactions on Communications, vol.E102.B, no.4, pp.708-721, 2019.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1587/transcom.2018SEP0006" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, S. Hinatsu, Y. Kuroda, O. Oshiro, Hemodynamic Sensing of 3-D Fingertip Force by using Non-pulsatile and Pulsatile Signals in the Proximal Part. IEEE Transactions on Biomedical Circuits and Systems, vol.12, no.5, pp.1155 - 1164, 2018.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TBCAS.2018.2839184" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, Y. Kuroda, O. Oshiro, Estimation of Object Elasticity by Capturing Fingernail Images during Haptic Palpation. IEEE Transactions on Haptics, vol.11, no.2, pp.204-211, 2018.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TOH.2018.2803053" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+黒田嘉宏, 加藤拓実, 吉元俊輔, 大城理, PupilShutter：瞳孔収縮による注釈提示システム. ヒューマンインタフェース学会論文誌, vol.20, no.2, pp.221-228, 2018(<span class="important">HIS Paper Award</span>).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.11184/his.20.2_221" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+T. Kitajima, E. Murakami, S. Yoshimoto, Y. Kuroda, O. Oshiro, Privacy-aware face detection using biological signals in camera images. Electronics and Communications in Japan, vol.101, no.6, pp.67-79, 2018(translated from Denki Gakkai Ronbunshi).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1002/ecj.12077" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+K. Takayasu, K. Yoshida, H. Kinoshita, S. Yoshimoto, O. Oshiro, T. Masuda, Analysis of the tractive force pattern on a knot by force measurement during laparoscopic knot tying. The American Journal of Surgery, vol.216, no.2, pp.314-318, 2018.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://dx.doi.org/10.1016/j.amjsurg.2017.07.009" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+北島利浩, 村上エドワード, 吉元俊輔, 黒田嘉宏, 大城理, 生体信号を利用したプライバシー保護画像からの顔検出手法. 電気学会論文誌C（電子・情報・システム部門誌）, vol.138, no.3, pp.210-220, 2017.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1541/ieejeiss.138.210" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+井手口裕太, 川口純輝, 浦西友樹, 吉元俊輔, 黒田嘉宏, 井村誠孝, 大城理, Oil Bubble Display：油を投影面とした変形・結合・分裂が可能なディスプレイ. 芸術科学会論文誌, vol.16, no.3, pp.15-28, 2017(<span class="important">Paper Award from Society for Art and Science</span>).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://www.art-science.org/journal/v16n3/" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+日夏俊, 吉元俊輔, 黒田嘉宏, 大城理, 基節部における脈波計測を利用した指先接触力推定. 生体医工学, vol.55, no.3, pp.115-124, 2017.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.55.115" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+桑谷達之, 吉元俊輔, 黒田嘉宏, 大城理, 胸部に連動する電磁誘導コイルを用いた呼吸量推定. 生体医工学, vol.55, no.2, pp.69-76, 2017.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.55.69" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+J. Kawaguchi, S. Yoshimoto, Y. Kuroda, O. Oshiro, Estimation of Finger Joint Angles Based on Electromechanical Sensing of Wrist Shape. IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol.25, no.9, pp.1409-1418, 2017.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1109/TNSRE.2016.2626800" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+J. Kawaguchi, S. Yoshimoto, M. Imura, O. Oshiro, Finger Joint Angle Estimation from Electrical Contact Resistance. Electronics and Communications in Japan, vol.100, no.6, pp.35-44, 2017(translated from Denki Gakkai Ronbunshi).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="https://doi.org/10.1002/ecj.11959" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+Y. Ideguchi, Y. Uranishi, S. Yoshimoto, Y. Kuroda, M. Imura, O. Oshiro, Reconstruction of Smoke based on Light Field Consistency. IEEJ Transactions on Sensors and Micromachines, vol.136, no.12, pp.522-531, 2016.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.1541/ieejsmas.136.522" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+井手口裕太, 浦西友樹, 吉元俊輔, 黒田嘉宏, 井村誠孝, 大城理, ライトフィールドからの煙の空間濃度分布推定. 映像情報メディア学会誌, vol.70, no.7, pp.J146-J157, 2016.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.3169/itej.70.J146" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+加藤雄樹, 吉元俊輔, 井村誠孝, 山下新吾, 小椋敏彦, 大城理, 循環動態解析のための非侵襲圧脈波・血流同時計測に関する基礎的研究. 生体医工学, vol.54, no.2, pp.66-75, 2016.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.54.66" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, Y. Kuroda, M. Imura, O. Oshiro, K. Nozaki, Y. Taga, H. Machi, H. Tamagawa, Electrotactile Augmentation for Carving Guidance. IEEE Transactions on Haptics, vol.9, no.1, pp.43-53, 2016.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://dx.doi.org/10.1109/TOH.2015.2479229" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+三宅正夫, 眞鍋佳嗣, 浦西友樹, 吉元俊輔, 井村誠孝, 黒田嘉宏, 大城理, 視覚障がい者のための色にもとづく服飾選択支援システム. 生体医工学, vol.53, no.5, pp.255-263, 2015.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.53.255" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+N. Nagasaka, Y. Uranishi, S. Yoshimoto, M. Imura, O. Oshiro, Haptic Interface with a Stylus for a Mobile Touch Panel. ITE Transactions on Media Technology and Applications, vol.3, no.4, pp.279-286, 2015.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.3169/mta.3.279" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+川口純輝, 吉元俊輔, 井村誠孝, 大城理, 手首形状に応じた電気接触抵抗からの指角度推定. 電気学会論文誌C（電子・情報・システム部門誌）, vol.135, no.11, pp.1314-1321, 2015.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.1541/ieejeiss.135.1314" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, Y. Kuroda, M. Imura, O. Oshiro, Material Roughness Modulation via Electrotactile Augmentation. IEEE Transactions on Haptics, vol.8, no.2, pp.199-208, 2015.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://dx.doi.org/10.1109/TOH.2015.2412942" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+浦西友樹, 瀧澤洸, 吉元俊輔, 井村誠孝, 大城理, 視覚障がい者のための誘導音を用いた線図形トレーシングシステム. システム制御情報学会論文誌, vol.28, no.5, pp.205-212, 2015.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.5687/iscie.28.205" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+中藤寛己, 井村誠孝, 吉元俊輔, 大城理, 嚥下音解析による摂取水分量の推定システム. 生体医工学, vol.53, no.2, pp.76-83, 2015.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.53.76" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+加藤高浩, 井村誠孝, 吉元俊輔, 大城理, 組織の非圧縮性を考慮した舌変形モデルの構築. 生体医工学, vol.52, no.6, pp.275-281, 2014.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.52.275" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+大野良介, 吉元俊輔, 佐藤宏介, 無装着入力インタフェースのための掌への指先押下の画像センシング. 映像情報メディア学会学会誌, vol.68, no.7, pp.J287-J291, 2014.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.3169/itej.68.J285" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+S. Yoshimoto, Y. Kuroda, M. Imura, O. Oshiro, Spatially Transparent Tactile Sensor by using Electromechanical Property of Skin. Advanced Biomedical Engineering, vol.1, no.1, pp.89-97, 2012(<span class="important">JBMES 2012 Best Research Award</span>).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.14326/abe.1.89" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 黒田嘉宏, 井村誠孝, 大城理, 東寛子, 八木雅和, 高田健治, 歯科模型の可触化による切削訓練システムの構築. 日本医用画像工学会論文誌, vol.30, no.4, pp.172-180, 2012.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11409/mit.30.172" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 黒田嘉宏, 井村誠孝, 大城理, 組織牽引支援のための歪計測に基づく電気触覚フィードバック. 生体医工学, vol.50, no.1, pp.84-91, 2012(<span class="important">JBMES 2011 Best Research Award</span>).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.50.84" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 濱田友貴, 徳井隆博, 末竹哲也, 井村誠孝, 黒田嘉宏, 大城理, Haptic Canvas：ダイラタント流体を用いた力触覚の生成と調合. 芸術科学会論文誌, vol.10, no.4, pp.204-214, 2011.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://www.art-science.org/journal/v10n4/index.html" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 重枝慧, 黒田嘉宏, 井村誠孝, 大城理, 東寛子, 八木雅和, 高田健治, 対話的相互参照のための可触歯科画像の構成手法. 日本医用画像工学会論文誌, vol.29, no.4, pp.181-190, 2011.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11409/mit.29.181" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 濱田友貴, 徳井隆博, 末竹哲也, 井村誠孝, 黒田嘉宏, 大城理, ダイラタント流体を用いた媒体制御型力触覚提示装置. 日本バーチャルリアリティ学会論文誌, vol.16, no.3, pp.317-325, 2011.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.18974/tvrsj.16.3_317" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 黒田嘉宏, 井村誠孝, 大城理, 物体表面の自己相似性を伝える電気触覚パルス頻度変調. 日本バーチャルリアリティ学会論文誌, vol.16, no.3, pp.307-315, 2011.
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.18974/tvrsj.16.3_307" target="_blank"><i class="fas fa-search"></i></a></div>
+<div class= "col-sm-11" style="text-align: justify;"><li>
+吉元俊輔, 黒田嘉宏, 井村誠孝, 鍵山善之, 大城理, 空間透明型電気触覚ディスプレイの開発と道具操作支援への応用. 生体医工学, vol.49, no.1, pp.54-61, 2011(<span class="important">JBMES 2010 Best Research Award</span>).
+</li></div><div class= "col-sm-1" style="text-align: left;"><a href="http://doi.org/10.11239/jsmbe.49.54" target="_blank"><i class="fas fa-search"></i></a></div>
+</div></ol>
+
+</div></section>
+
+<div class="row" style="border-top-style: solid; border-top-width: 1px; text-align: center">
+	(c) 2015-2024 Shunsuke Yoshimoto 
+</div>                
+
+</body>
+	
+</html>
